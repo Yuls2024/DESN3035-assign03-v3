@@ -37,7 +37,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 3 */}
                             <div className="projectCard">
-                                <a href="productItem03.html">
+                                <a href="./product03">
                                     <img
                                         src="images/shoes03.jpeg"
                                         alt="Magenta Dance shoes"
@@ -48,7 +48,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 4 */}
                             <div className="projectCard">
-                                <a href="productItem04.html">
+                                <a href="./product04">
                                     <img
                                         src="images/shoes04.jpeg"
                                         alt="Nude Dance shoes"
@@ -59,7 +59,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 5 */}
                             <div className="projectCard">
-                                <a href="productItem05.html">
+                                <a href="./product05">
                                     <img
                                         src="images/shoes05.jpeg"
                                         alt="Gold Dance shoes"
@@ -70,7 +70,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 6 */}
                             <div className="projectCard">
-                                <a href="productItem06.html">
+                                <a href="./product06">
                                     <img
                                         src="images/shoes06.jpeg"
                                         alt="Red Dance shoes"

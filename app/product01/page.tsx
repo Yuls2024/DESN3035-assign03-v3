@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../_components/header";
 import Footer from "../_components/footer";
 
-export default function Page() {
+export default function Product01() {
     return (
         <>
             <Header />
