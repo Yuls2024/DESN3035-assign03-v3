@@ -1,4 +1,5 @@
 import React from "react";
+import "./styles.css";
 
 export const metadata = {
   title: "Next.js",
@@ -16,7 +17,6 @@ export default function RootLayout({
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Product Portfolio with Grid</title>
-        <link rel="stylesheet" href="/desn3035-assign03/styles/styles.css" />
       </head>
       <body>{children}</body>
     </html>

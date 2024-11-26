@@ -16,11 +16,11 @@ body {
     display: flex;
     flex-direction: column;
 }
-
+/* 
 @font-face {
     font-family: 'Montserrat-Black.ttf';
     src: url('../fonts/Montserrat-Black.ttf');
-}
+} */
 
 :root {
 
@@ -264,8 +264,8 @@ h5 {
 }
 
 p {
-    font-family: 'RobotoLight';
-    src: url('../fonts/Roboto-Black.ttf');
+    /* font-family: 'RobotoLight'; */
+    /* src: url('../fonts/Roboto-Black.ttf'); */
     /*font-size: var(--font-size-base);*/
     line-height: 1.2;
     font-size: 14px;
