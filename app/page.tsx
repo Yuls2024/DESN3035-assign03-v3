@@ -15,7 +15,7 @@ export default function Page() {
                         <section id="projects" className="projects grid-container">
                             {/* Shoes 1 */}
                             <div className="projectCard">
-                                <a href="/product01">
+                                <a href="./product01">
                                     <img
                                         src="images/shoes01.jpeg"
                                         alt="Silver Dance shoes"
@@ -26,7 +26,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 2 */}
                             <div className="projectCard">
-                                <a href="/product02">
+                                <a href="./product02">
                                     <img
                                         src="images/shoes02.jpeg"
                                         alt="Black Dance shoes"
