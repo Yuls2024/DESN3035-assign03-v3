@@ -6,13 +6,13 @@ export default function Product04() {
     return (
         <>
             <Header />
-            Product 4
+          
             <main>
                 <div className="productItemContainer">
                     <div className="itemContainer">
                         <div className="itemText">
                             <section id="itemEntry01" className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes03.jpeg" alt="Blog photo" />
+                                <div><img className="itemPhoto" src="images/shoes03.jpeg" alt="Shoes03 photo" />
                                 </div>
                                 <div>
 

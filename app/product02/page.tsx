@@ -6,7 +6,6 @@ export default function Product02() {
     return (
         <>
             <Header />
-            Product 2
             <main>
                 <div className="productItemContainer">
                     <div className="itemContainer">

@@ -81,7 +81,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 7 */}
                             <div className="projectCard">
-                                <a href="productItem07.html">
+                                <a href="./product07">
                                     <img
                                         src="images/shoes07.jpeg"
                                         alt="Bronze Dance shoes"
@@ -92,7 +92,7 @@ export default function Page() {
                             </div>
                             {/* Shoes 8 */}
                             <div className="projectCard">
-                                <a href="productItem08.html">
+                                <a href="./product08">
                                     <img
                                         src="images/shoes08.jpeg"
                                         alt="Black Dance shoes"
