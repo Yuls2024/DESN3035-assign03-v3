@@ -28,7 +28,7 @@ export default function Product01() {
                                 great choice if you want to stand out on the dance floor.</p>
                         </div>
                     </section>
-                    <a className="goBack" href="/">Back to Catalog</a>
+                    <a className="goBack" href="./">Back to Catalog</a>
                 </div>
             </div>
         </div>
