@@ -25,7 +25,7 @@ export default function Product08() {
                                     <p>Perfect for salsa, cha-cha, and other Latin dances, Boots women’s dance shoes are both practical and fashionable. The high-top design not only enhances performance but also adds a trendy edge to your dance attire. For dancers who seek comfort without sacrificing style, these boots are a versatile and striking option.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
                 </div>

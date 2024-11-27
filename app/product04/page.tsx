@@ -25,7 +25,7 @@ export default function Product04() {
                                     <p>Suitable for a variety of dance styles, nude-colored shoes are both functional and fashionable. They provide the flexibility and comfort dancers need, while maintaining a timeless, understated elegance.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
 

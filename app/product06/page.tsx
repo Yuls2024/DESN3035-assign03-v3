@@ -26,7 +26,7 @@ export default function Product06() {
                                     <p>Ideal for Latin dance styles such as salsa, samba, or cha-cha, Danica red sparkly shoes bring together fashion and function. Whether you’re performing on stage or practicing in the studio, these shoes give you both the comfort and the flair needed to shine in every routine.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
 

@@ -26,7 +26,7 @@ export default function Product05() {
                                     <p>Ideal for Latin dances like salsa, cha-cha, or samba, Rose shoes are both practical and stylish. They offer the perfect balance of durability and elegance, making them an excellent choice for dancers who want to look and feel their best on the dance floor.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
 

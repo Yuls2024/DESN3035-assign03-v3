@@ -25,7 +25,7 @@ export default function Product07() {
                                     <p>Perfect for Latin dance styles like salsa, rumba, or cha-cha, Jeannie bronze sparkly shoes strike the right balance between practicality and style. Whether you're performing on stage or practicing in the studio, these shoes will keep you feeling both elegant and secure, helping you give your best performance every time.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
 

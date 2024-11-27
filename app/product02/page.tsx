@@ -21,7 +21,7 @@ export default function Product02() {
                                     <p>Ideal for Latin, ballroom, and more, black criss-cross shoes offer both comfort and elegance. They let you move freely while showcasing your footwork with ease and style.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
 

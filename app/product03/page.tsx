@@ -24,7 +24,7 @@ export default function Product04() {
                                     <p>Great for Latin, ballroom, or other dance styles, fuchsia dance shoes are both fashionable and functional. They add a splash of personality to your look while allowing you to move comfortably and gracefully.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="/">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Catalog</a>
                         </div>
                     </div>
                 </div>
