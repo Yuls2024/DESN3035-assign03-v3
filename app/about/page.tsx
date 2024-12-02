@@ -6,7 +6,7 @@ export default function About() {
     return (
         <>
             <Header />
-            ABOUT
+          
             <main>
         <div className="mainContainer">
             <div className="mainText">

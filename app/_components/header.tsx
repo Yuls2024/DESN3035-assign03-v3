@@ -17,14 +17,14 @@ export default function Header() {
             </div>
             <nav>
                 <ul className="navLinks">
-                    <li><a href="/">Catalog</a></li>
+                    <li><a href="./">Catalog</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="contact">Contact</a></li>
                 </ul>
             </nav>
             <div id="dropdown_menu" className="dropdown_menu">
                 <ul>
-                    <li><a href="/">Catalog</a></li>
+                    <li><a href="./">Catalog</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="contact">Contact</a></li>
                 </ul>
