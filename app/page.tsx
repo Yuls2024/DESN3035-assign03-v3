@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./_components/header";
 import Footer from "./_components/footer";
 import Shoes08 from "./_components/Shoes08";
-import Shoes07 from "./_components/Shoes07";
+
 
 
 
@@ -12,6 +12,7 @@ import Flowers03 from "./_components/Flowers03";
 import Flowers04 from "./_components/Flowers04";
 import Flowers05 from "./_components/Flowers05";
 import Flowers06 from "./_components/Flowers06";
+import Flowers07 from "./_components/Flowers07";
 
 export default function Page() {
     return (
@@ -31,8 +32,8 @@ export default function Page() {
                             <Flowers04 />
                             <Flowers05 />
                             <Flowers06 /> 
-                           
-                            <Shoes07 />
+                            <Flowers07 />
+                      
                             <Shoes08 />
                         </section>
                     </div>

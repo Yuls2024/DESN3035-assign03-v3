@@ -6,12 +6,12 @@ export default function ProductContent07() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section id="itemEntry01" className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes07.jpeg" alt="Shoes07 photo" />
+                                <div><img className="itemPhoto" src="images/flowers07.jpg" alt="Edible Mini Arrangement photo" />
                                 </div>
                                 <div>
 
-                                    <h2>Jeannie - Women's Latin Dance Shoes</h2>
-                                    <h3>$195 CAD</h3>
+                                    <h2>Edible Mini Arrangement</h2>
+                                    <h3>$25 CAD</h3>
 
                                     <p>Jeannie women's Latin dance shoes bring a touch of luxury to the dance floor with their radiant bronze sparkly design. The shimmering bronze finish is both elegant and eye-catching, ensuring you stand out in every performance. These shoes add a subtle but glamorous sparkle to your outfit, making them perfect for dancers who want to shine.</p>
 
