@@ -38,10 +38,10 @@ Follow these steps to set up the project locally:
    ```
    Install the following dependencies:
    
-   ```- **Bootstrap:**
+   - **Bootstrap:**
     
    ```bash
-   ```npm install bootstrap@^5.3.3
+   npm install bootstrap@^5.3.3
    ```
    - **Next.js:**
     
@@ -58,15 +58,25 @@ Follow these steps to set up the project locally:
     
    ```bash
    npm install react-dom@^18.3.1
-
    ```
     - **React Player:**
     
    ```bash
    npm install react-player@^2.16.0
-
-
+   ```
+   ```
+   Additionally, for development purposes, install the following **devDependencies**:
    
+  - **TypeScript:**
+    
+   ```bash
+   npm install typescript@5.6.3 --save-dev
+   ```
+  - **Type Definitions** (for React and Node)
+    
+   ```bash
+   npm install @types/react@18.3.12 @types/node@22.9.1 --save-dev
+   ```
 
 4. **Run the Development Server**  
    Start the development server with:
