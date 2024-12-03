@@ -36,7 +36,7 @@ Follow these steps to set up the project locally:
    npm install
 
    Install the following dependencies:
-        - **Bootstrap***
+        - **Bootstrap**
     
             ```bash
             npm install bootstrap@^5.3.3
