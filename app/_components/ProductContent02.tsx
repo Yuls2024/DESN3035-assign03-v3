@@ -11,9 +11,11 @@ export default function ProductContent02() {
                                 <div>
                                     <h2>Hat Box Arrangement</h2>
                                     <h3>$75 CAD</h3>
-                                    <p>Black criss-cross dance shoes combine style and comfort, with their criss-cross straps adding both a fashionable look and extra support. These shoes are perfect for dancers wanting a sleek, classic design.</p>
-                                    <p>The adjustable ankle straps and stable heel provide a secure fit, giving dancers confidence during fast moves. The sturdy heel adds balance, making them a great choice for various dance styles. </p>
-                                    <p>Ideal for Latin, ballroom, and more, black criss-cross shoes offer both comfort and elegance. They let you move freely while showcasing your footwork with ease and style.</p>
+                                    <p>Bright and cheerful, a hat box arrangement featuring a sunflower and vibrant blooms bursts with color and joy, perfect for uplifting any space.</p>
+
+                                    <p>This stunning arrangement blends the bold beauty of a sunflower with an array of other colorful flowers, creating a lively and eye-catching display.</p>
+
+                                    <p>Presented in an elegant hat box, this unique floral design brings warmth, happiness, and a touch of sophistication to any celebration or setting.</p>
                                 </div>
                             </section>
                             <a className="goBack" href="./">Back to Catalog</a>

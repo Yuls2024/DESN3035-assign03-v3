@@ -12,14 +12,11 @@ export default function ProductContent01() {
                                     <h2>Romantic Bouquet</h2>
                                     <h3>$50 CAD</h3>
 
-                                    <p>Mesh and sparkly silver dance shoes are a great mix of style and comfort. The mesh makes
-                                        them breathable and easy to move in, while the sparkly silver adds a fun, eye-catching
-                                        look. </p>
-                                    <p>These shoes have an adjustable ankle straps and a steady heel for extra support, making
-                                        them perfect for dancing confidently. </p>
-                                    <p>Whether for Latin, ballroom, or other types of dance, they let you look stylish while
-                                        staying comfortable during fast, detailed footwork. Mesh and sparkly silver shoes are a
-                                        great choice if you want to stand out on the dance floor.</p>
+                                    <p>A romantic bouquet is the perfect way to express love, with its soft colors and enchanting blooms evoking feelings of warmth and devotion. </p>
+
+                                    <p>Crafted with elegance and care, each romantic bouquet symbolizes passion, tenderness, and the beauty of cherished moments. </p>
+
+                                    <p>Whether celebrating a special occasion or simply sharing your heart, a this bouquet speaks the language of love through nature’s most beautiful blossoms.</p>
                                 </div>
                             </section>
                             <a className="goBack" href="./">Back to Catalog</a>
