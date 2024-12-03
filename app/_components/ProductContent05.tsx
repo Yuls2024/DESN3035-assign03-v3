@@ -13,11 +13,11 @@ export default function ProductContent05() {
                                     <h2>Flower Monkey</h2>
                                     <h3>$60 CAD</h3>
 
-                                    <p>Rose women's Latin dance shoes offer a perfect blend of style and functionality, designed to meet the demands of Latin dance styles. With their sleek design and elegant finish, these shoes add a touch of sophistication to any performance while ensuring maximum comfort.</p>
+                                    <p>A whimsical flower monkey brings joy and creativity to life, crafted entirely from fresh blooms for a playful, eye-catching display.</p>
 
-                                    <p>The shoes feature an adjustable fit and a stable heel, providing the support needed for precise footwork and quick movements. Their lightweight construction allows dancers to glide effortlessly across the floor, enhancing both speed and control.</p>
+                                    <p>This adorable floral arrangement combines artistry and charm, making it a perfect gift for anyone who loves unique and imaginative designs.</p>
 
-                                    <p>Ideal for Latin dances like salsa, cha-cha, or samba, Rose shoes are both practical and stylish. They offer the perfect balance of durability and elegance, making them an excellent choice for dancers who want to look and feel their best on the dance floor.</p>
+                                    <p>Bursting with color and personality, a flower monkey adds a fun and heartwarming touch to celebrations, decorations, or special surprises.</p>
                                 </div>
                             </section>
                             <a className="goBack" href="./">Back to Catalog</a>
