@@ -114,7 +114,7 @@ This project is created for educational purposes as part of the coursework for D
 It is not intended for commercial use.
 
 ## Acknowledgments  
-- Grateful for the kindness, guidance and support of **Professor Chris Kim**, without whom I wouldn't be able to do this project.  
+Grateful for the kindness, guidance and support of **Professor Chris Kim**, without whom I wouldn't be able to do this project.  
 
 ## Contributions  
 At this time, contributions are not being accepted for this project.  
