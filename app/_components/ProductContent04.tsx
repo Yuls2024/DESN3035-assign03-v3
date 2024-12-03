@@ -6,11 +6,11 @@ export default function ProductContent04() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section id="itemEntry01" className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes04.jpeg" alt="Shoes04 photo" />
+                                <div><img className="itemPhoto" src="images/flowers04.jpg" alt="Flowers & Macaroons in a box photo" />
                                 </div>
                                 <div>
-                                    <h2>Bacall - Women's Latin Dance Shoes</h2>
-                                    <h3>$200 CAD</h3>
+                                    <h2>Flowers & Macaroons in a box</h2>
+                                    <h3>$40 CAD</h3>
 
                                     <p>Nude-colored dance shoes are a versatile and stylish choice, designed to blend seamlessly with any outfit while enhancing the appearance of leg length. Their neutral tone makes them perfect for dancers who prefer a subtle, elegant look on the dance floor.</p>
 
