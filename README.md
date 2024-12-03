@@ -1,7 +1,7 @@
 # Project Name: desn3035-assign03
 # Project's Website Name: Floral Essence
 
-## Project Description
+### Project Description
 This project is a web application built using Next.js and React. It features a modern, responsive design with integration for multimedia content. The site utilizes Bootstrap for styling and offers a clean, user-friendly interface.
 
 This website is an attempt to create a one-person business showcasing a portfolio of custom floral arrangements and unique gift ideas. It allows users to browse various products like flower arrangements & edible bouquets to be chosen as gifts. The site includes easy-to-navigate categories, product pages, and an integrated contact form for inquiries.
@@ -86,3 +86,29 @@ Follow these steps to set up the project locally:
 
 5. **Open in Your Browser**
    Once the server is running, navigate to `http://localhost:3000` in your web browser to view the site.
+
+## Dependencies
+
+- **bootstrap**: ^5.3.3
+- **next**: ^15.0.3
+- **react**: ^18.3.1
+- **react-dom**: ^18.3.1
+- **react-player**: ^2.16.0
+
+## DevDependencies
+
+- **@types/node**: 22.9.1
+- **@types/react**: 18.3.12
+- **typescript**: 5.6.3
+
+## Scripts
+
+- **`npm run dev`**: Runs the development server.
+- **`npm run build`**: Builds the project for production.
+- **`npm run start`**: Starts the production server.
+- **`npm run lint`**: Runs the linter to check for code issues.
+
+## License
+
+This project is created for educational purposes as part of the coursework for DESN3035 at George Brown College.  
+It is not intended for commercial use.
