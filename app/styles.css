@@ -539,6 +539,7 @@ img {
     .grid-container {
         /*border: 3px solid green;*/
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        place-items: center;
     }
 
     /*index*/
