@@ -6,7 +6,7 @@ export default function ProductContent01() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes01.jpeg" alt="Shoes01 photo" />
+                                <div><img className="itemPhoto" src="images/flowers01.jpg" alt="Flowers01 photo" />
                                 </div>
                                 <div className="itemDescription">
                                     <h2>Silver - Women's Latin Dance Shoes</h2>
