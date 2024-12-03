@@ -12,11 +12,11 @@ export default function ProductContent04() {
                                     <h2>Flowers & Macaroons in a box</h2>
                                     <h3>$40 CAD</h3>
 
-                                    <p>Nude-colored dance shoes are a versatile and stylish choice, designed to blend seamlessly with any outfit while enhancing the appearance of leg length. Their neutral tone makes them perfect for dancers who prefer a subtle, elegant look on the dance floor.</p>
+                                    <p>A delightful combination of flowers and macarons in a box creates a perfect blend of beauty and sweetness for any occasion.</p>
 
-                                    <p>These shoes offer comfort and support with their adjustable fit and stable heel, allowing for smooth, confident movement. The lightweight design ensures ease of motion, making them ideal for long performances or practice sessions.</p>
+                                    <p>Elegantly arranged blooms paired with colorful, delectable macarons make this gift both visually stunning and deliciously memorable.</p>
 
-                                    <p>Suitable for a variety of dance styles, nude-colored shoes are both functional and fashionable. They provide the flexibility and comfort dancers need, while maintaining a timeless, understated elegance.</p>
+                                    <p>Whether for a celebration or just because, flowers and macarons in a box offer a unique and charming way to show love and appreciation.</p>
                                 </div>
                             </section>
                             <a className="goBack" href="./">Back to Catalog</a>

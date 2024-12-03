@@ -13,9 +13,11 @@ export default function ProductContent03() {
                                     <h2>Mini Arrangement</h2>
                                     <h3>$35 CAD</h3>
 
-                                    <p>Fuchsia dance shoes bring a bold pop of color and style to the dance floor. Their vibrant shade adds a fun, eye-catching element, making them perfect for dancers who want to stand out while still staying comfortable.</p>
-                                    <p>With adjustable ankle straps and a supportive heel, these shoes offer both security and stability during fast moves. The bright color combined with a sturdy design ensures you can dance with confidence.</p>
-                                    <p>Great for Latin, ballroom, or other dance styles, fuchsia dance shoes are both fashionable and functional. They add a splash of personality to your look while allowing you to move comfortably and gracefully.</p>
+                                    <p>A charming mini arrangement in a small bucket adds a touch of warmth and beauty to any space, perfect for brightening up a desk or shelf.</p>
+
+                                    <p>Carefully crafted with vibrant blooms and greenery, this petite arrangement delivers big impact in a compact design.</p>
+
+                                    <p>Ideal for gifts or personal décor, these small bucket arrangements bring a playful yet elegant flair to your surroundings.</p>
                                 </div>
                             </section>
                             <a className="goBack" href="./">Back to Catalog</a>
