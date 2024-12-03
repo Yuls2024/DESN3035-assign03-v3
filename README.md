@@ -85,4 +85,4 @@ Follow these steps to set up the project locally:
    npm run dev
 
 5. **Open in Your Browser**
-   Once the server is running, navigate to http://localhost:3000 in your web browser to view the site.
+   Once the server is running, navigate to `http://localhost:3000` in your web browser to view the site.
