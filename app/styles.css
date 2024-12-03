@@ -154,7 +154,8 @@ nav ul li a:hover,
 
 main {
     /* For larger screens to make everything centered */
-    max-width: 1440px;
+    /* max-width: 1440px; */
+    width:100%;
     flex: 1;
     margin: 0 auto;
     padding: var(--spacing-unit);
@@ -176,8 +177,8 @@ main {
 
 /*productItem*/
 .itemContainer {
-    display: flex;
-    width: 90vw;
+    /* display: flex; */
+    /* width: 90vw; */
     box-sizing: border-box;
 
 }
@@ -607,4 +608,10 @@ img {
         height: 350px;
     }
 
+}
+
+#projects
+{
+    margin-left:auto;
+    margin-right:auto;
 }
