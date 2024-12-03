@@ -6,9 +6,9 @@ import Shoes07 from "./_components/Shoes07";
 import Shoes06 from "./_components/Shoes06";
 import Shoes05 from "./_components/Shoes05";
 import Shoes04 from "./_components/Shoes04";
-import Shoes03 from "./_components/Shoes03";
 import Flowers01 from "./_components/Flowers01";
 import Flowers02 from "./_components/Flowers02";
+import Flowers03 from "./_components/Flowers03";
 
 export default function Page() {
     return (
@@ -24,8 +24,8 @@ export default function Page() {
                             
                             <Flowers01 />
                             <Flowers02 />
-                          
-                            <Shoes03 />
+                            <Flowers03 />                          
+                           
                             <Shoes04 />
                             <Shoes05 />
                             <Shoes06 />
