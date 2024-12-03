@@ -6,12 +6,12 @@ export default function ProductContent06() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section id="itemEntry01" className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes06.jpeg" alt="Shoes06 photo" />
+                                <div><img className="itemPhoto" src="images/flowers06.jpg" alt="Edible Bouquet" />
                                 </div>
                                 <div>
 
-                                    <h2>Danica - Women's Latin Dance Shoes</h2>
-                                    <h3>$250 CAD</h3>
+                                    <h2>Edible Bouquet</h2>
+                                    <h3>$55 CAD</h3>
 
                                     <p>Danica women’s Latin dance shoes stand out with their striking red sparkly design, perfect for dancers looking to add a bold flair to their performances. The vibrant red color combined with the shimmer of the sparkles creates a show-stopping look, ensuring you’ll catch the eye on any dance floor.</p>
 
