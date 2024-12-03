@@ -1,4 +1,4 @@
-export default function Shoes01() {
+export default function Flowers01() {
     return (
         <>
             {/* Shoes 1 */}
@@ -6,10 +6,10 @@ export default function Shoes01() {
                 <a href="./product01">
                     <img
                         src="images/flowers01.jpg"
-                        alt="Silver Dance shoes"
+                        alt="Romantic Bouquet"
                     />
-                    <h6>Silver - Women's Latin Dance Shoes</h6>
-                    <p>$227 CAD</p>
+                    <h6>Romantic Bouquet</h6>
+                    <p>$50 CAD</p>
                 </a>
             </div>
         </>

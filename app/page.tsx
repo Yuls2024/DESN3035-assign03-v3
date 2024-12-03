@@ -8,7 +8,7 @@ import Shoes05 from "./_components/Shoes05";
 import Shoes04 from "./_components/Shoes04";
 import Shoes03 from "./_components/Shoes03";
 import Shoes02 from "./_components/Shoes02";
-import Shoes01 from "./_components/Shoes01";
+import Flowers01 from "./_components/Flowers01";
 
 export default function Page() {
     return (
@@ -21,7 +21,8 @@ export default function Page() {
                             <h2>Dance Shoes</h2>
                         </div>
                         <section id="projects" className="projects grid-container">
-                            <Shoes01 />
+                            
+                            <Flowers01 />
                             <Shoes02 />
                             <Shoes03 />
                             <Shoes04 />
