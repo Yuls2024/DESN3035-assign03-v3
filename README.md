@@ -37,12 +37,12 @@ Follow these steps to set up the project locally:
 
    Install the following dependencies:
 
-   ```
+   ``````
    - **Bootstrap**
     
    ```bash
    npm install bootstrap@^5.3.3
-   ```
+   ``````
 
 4. **Run the Development Server**  
    Start the development server with:
