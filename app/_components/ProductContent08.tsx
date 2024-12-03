@@ -20,7 +20,7 @@ export default function ProductContent08() {
                                     <p>The timeless beauty of a heartshaped arrangement makes it an unforgettable gift, blending sentiment and artistry in a captivating way.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
                 </div>

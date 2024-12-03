@@ -19,7 +19,7 @@ export default function ProductContent04() {
                                     <p>Whether for a celebration or just because, flowers and macarons in a box offer a unique and charming way to show love and appreciation.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
 

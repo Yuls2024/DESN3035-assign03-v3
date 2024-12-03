@@ -19,7 +19,7 @@ export default function ProductContent01() {
                                     <p>Whether celebrating a special occasion or simply sharing your heart, a this bouquet speaks the language of love through nature’s most beautiful blossoms.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
                 </div>

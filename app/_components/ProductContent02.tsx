@@ -18,7 +18,7 @@ export default function ProductContent02() {
                                     <p>Presented in an elegant hat box, this unique floral design brings warmth, happiness, and a touch of sophistication to any celebration or setting.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
                 </div>

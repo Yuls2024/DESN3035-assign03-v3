@@ -20,7 +20,7 @@ export default function ProductContent05() {
                                     <p>Bursting with color and personality, a flower monkey adds a fun and heartwarming touch to celebrations, decorations, or special surprises.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
 

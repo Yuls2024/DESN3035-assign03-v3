@@ -271,8 +271,8 @@ p {
     /* src: url('../fonts/Roboto-Black.ttf'); */
     /*font-size: var(--font-size-base);*/
     line-height: 1.2;
-    /*font-size: 14px;*/
     font-size: 16px;
+
     padding: var(--spacing-unit) 0;
     padding-right: var(--spacing-unit) 0;
 }

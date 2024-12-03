@@ -12,10 +12,10 @@ export default function About() {
             <div className="mainText">
                 <section id="aboutMe" className="aboutMe">
                     <h2>About Us</h2>
-                    <p>We are two former dance partners who shared a passion for Latin dancing. After years of performing and competing together, we realized how important the right shoes are for dancers. This led us to start our own dance shoe store, where we could help others find comfortable, stylish shoes that make dancing easier and more fun.
+                    <p>At Floral Essence, I believe that flowers are more than just gifts—they’re heartfelt expressions of love, joy, and connection. With a passion for creating beautiful and unique floral designs, I craft every arrangement with care and creativity, ensuring each piece is as special as the moment it celebrates. From vibrant bouquets to whimsical creations like flower monkeys and edible arrangements, I personally select the freshest blooms and finest ingredients to deliver something truly memorable. Every design reflects my dedication to quality, artistry, and the beauty of nature.
                     </p>
                     <p>
-                        Our experience on the dance floor taught us what dancers really need in a shoe—support, comfort, and a touch of style. That’s why we’ve carefully selected shoes that are both beautiful and functional, perfect for every level of dancer. We believe that the right shoes can make all the difference, and we’re excited to share our love for dance through our store!
+                    As a one-person business, I am deeply committed to providing personalized service and attention to detail. Whether you're celebrating a milestone, surprising someone special, or simply brightening your day, I am here to bring your vision to life with stunning floral creations. Each arrangement is handcrafted with love and care, ensuring a personal touch that sets my work apart. Let me help you make every moment beautiful, one bloom at a time.
                     </p>
                 </section>
 

@@ -20,7 +20,7 @@ export default function ProductContent06() {
                                     <p>A fruit and flower bouquet is the perfect way to share a sweet, edible surprise while adding a touch of elegance and freshness to any celebration.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
 

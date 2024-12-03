@@ -20,7 +20,7 @@ export default function ProductContent03() {
                                     <p>Ideal for gifts or personal décor, these small bucket arrangements bring a playful yet elegant flair to your surroundings.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
                 </div>

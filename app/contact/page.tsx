@@ -13,7 +13,6 @@ export default function Page() {
         <>
             <Header />
             <ContactMain />
-            {/*<h4 className="text-center"> Please contact us by calling: 123-567-8900</h4>*/}
             <VideoPlayer />
             <Footer />
         </>

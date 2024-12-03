@@ -20,7 +20,7 @@ export default function ProductContent07() {
                                     <p>Sweet, vibrant, and elegant, an edible mini arrangement adds a touch of beauty and flavor to any small space or special moment.</p>
                                 </div>
                             </section>
-                            <a className="goBack" href="./">Back to Catalog</a>
+                            <a className="goBack" href="./">Back to Portfolio</a>
                         </div>
                     </div>
                 </div>
