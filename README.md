@@ -38,10 +38,10 @@ Follow these steps to set up the project locally:
    ```
    Install the following dependencies:
    
-   - **Bootstrap:**
+   ```- **Bootstrap:**
     
    ```bash
-   npm install bootstrap@^5.3.3
+   ```npm install bootstrap@^5.3.3
    ```
    - **Next.js:**
     
