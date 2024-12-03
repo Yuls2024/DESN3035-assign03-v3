@@ -6,12 +6,12 @@ export default function ProductContent05() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section id="itemEntry01" className="itemEntry">
-                                <div><img className="itemPhoto" src="images/shoes05.jpeg" alt="Shoes05 photo" />
+                                <div><img className="itemPhoto" src="images/flowers05.jpg" alt="Flower Monkey photo" />
                                 </div>
                                 <div>
 
-                                    <h2>Rose - Women's Latin Dance Shoes</h2>
-                                    <h3>$150 CAD</h3>
+                                    <h2>Flower Monkey</h2>
+                                    <h3>$60 CAD</h3>
 
                                     <p>Rose women's Latin dance shoes offer a perfect blend of style and functionality, designed to meet the demands of Latin dance styles. With their sleek design and elegant finish, these shoes add a touch of sophistication to any performance while ensuring maximum comfort.</p>
 
