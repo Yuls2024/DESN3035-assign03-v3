@@ -23,3 +23,9 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/your-username/desn3035-assign03.git
    cd desn3035-assign03
+
+2. **Install Dependencies**  
+   Install all necessary dependencies using npm:
+
+   ```bash
+   npm install
