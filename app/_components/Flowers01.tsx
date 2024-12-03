@@ -1,7 +1,7 @@
 export default function Flowers01() {
     return (
         <>
-            {/* Shoes 1 */}
+            {/* Flowers 01 */}
             <div className="projectCard">
                 <a href="./product01">
                     <img
