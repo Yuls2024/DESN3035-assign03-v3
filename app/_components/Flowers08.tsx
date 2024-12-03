@@ -8,7 +8,7 @@ export default function Flowers08() {
                         src="images/flowers08.jpg"
                         alt="Heartshaped Arrangment"
                     />
-                    <h6>Heartshaped Arrangment</h6>
+                    <h6>Heartshaped Arrangement</h6>
                     <p>$45 CAD</p>
                 </a>
             </div>

@@ -9,7 +9,7 @@ export default function Flowers03() {
                         alt="Mini Arrangement"
                     />
                     <h6>Mini Arrangement</h6>
-                    <p>35 CAD</p>
+                    <p>$35 CAD</p>
                 </a>
             </div>
         </>
