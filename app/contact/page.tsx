@@ -13,7 +13,9 @@ export default function Page() {
         <>
             <Header />
             <ContactMain />
-            <h4 className="pt-5">Surprise</h4>
+            <h4 className="pt-5" style={{ fontFamily: 'Montserrat, sans-serif', fontWeight: 900, fontSize: '20px' }}>
+                Surprise
+            </h4>
             <VideoPlayer />
             <Footer />
         </>
