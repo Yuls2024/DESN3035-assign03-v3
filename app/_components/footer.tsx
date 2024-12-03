@@ -2,7 +2,7 @@ export default function Footer() {
 
     return <>
         <footer>
-            <p>&copy; Dancing World. All rights reserved.</p>
+            <p>&copy; Floral Essence. All rights reserved.</p>
         </footer>
     </>
 

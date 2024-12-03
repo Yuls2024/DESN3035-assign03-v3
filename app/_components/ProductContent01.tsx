@@ -6,11 +6,11 @@ export default function ProductContent01() {
                     <div className="itemContainer">
                         <div className="itemText">
                             <section className="itemEntry">
-                                <div><img className="itemPhoto" src="images/flowers01.jpg" alt="Flowers01 photo" />
+                                <div><img className="itemPhoto" src="images/flowers01.jpg" alt="Romantic Bouquet photo" />
                                 </div>
                                 <div className="itemDescription">
-                                    <h2>Silver - Women's Latin Dance Shoes</h2>
-                                    <h3>$227 CAD</h3>
+                                    <h2>Romantic Bouquet</h2>
+                                    <h3>$50 CAD</h3>
 
                                     <p>Mesh and sparkly silver dance shoes are a great mix of style and comfort. The mesh makes
                                         them breathable and easy to move in, while the sparkly silver adds a fun, eye-catching

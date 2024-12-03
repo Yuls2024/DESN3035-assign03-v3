@@ -81,16 +81,18 @@ header {
 .logo {
     display: flex;
     align-items: center;
-    min-width: 300px;
+    min-width: 400px;
 }
 
 .logo img {
     width: 100px;
+   
 }
 
 .logo h1 {
     display: inline-block;
-    width: 100px;
+    width: 200px;
+    
 }
 
 nav ul {

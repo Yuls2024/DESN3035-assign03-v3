@@ -5,7 +5,7 @@ export default function ContactMain() {
             <div className="d-flex justify-content-center  min-vh-100">
                 <div className="mainContainer3 text-center">
                     <section id="contact" className="contact">
-                        <h2>Contact Us</h2>
+                        <h4>Contact Us</h4>
                         <form action="name">
                             <label htmlFor="name">Name</label>
                             <input type="text" name="name" placeholder="Enter your name" />
