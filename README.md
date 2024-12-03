@@ -48,6 +48,24 @@ Follow these steps to set up the project locally:
    ```bash
    npm install next@^15.0.3
    ```
+   - **React:**
+    
+   ```bash
+   npm install react@^18.3.1
+
+   ```
+    - **React DOM:**
+    
+   ```bash
+   npm install react-dom@^18.3.1
+
+   ```
+    - **React Player:**
+    
+   ```bash
+   npm install react-player@^2.16.0
+
+
    
 
 4. **Run the Development Server**  
