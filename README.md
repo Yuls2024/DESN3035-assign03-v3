@@ -35,8 +35,18 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
 
+   Install the following dependencies:
+  - **Bootstrap***
+    
+      ```bash
+      npm install bootstrap@^5.3.3
+
+
 4. **Run the Development Server**  
    Start the development server with:
 
    ```bash
    npm run dev
+
+5. **Open in Your Browser**
+   Once the server is running, navigate to http://localhost:3000 in your web browser to view the site.
