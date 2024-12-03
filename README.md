@@ -22,10 +22,21 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/your-username/desn3035-assign03.git
+
+2. **Navigate to the project directory:**  
+   Navigate to the project directory using the following command:
+
+   ```bash
    cd desn3035-assign03
 
-2. **Install Dependencies**  
+3. **Install Dependencies**  
    Install all necessary dependencies using npm:
 
    ```bash
    npm install
+
+4. **Run the Development Server**  
+   Start the development server with:
+
+   ```bash
+   npm run dev
