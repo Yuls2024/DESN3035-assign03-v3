@@ -13,3 +13,13 @@ This website is an attempt to create a one-person business showcasing a portfoli
 - **Bootstrap**: A popular CSS framework for developing responsive, mobile-first web pages.
 - **React Player**: A React component for playing multimedia (audio/video).
 - **TypeScript**: A superset of JavaScript that adds static typing.
+
+## Installation
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository**  
+   Clone the project from GitHub to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/your-username/desn3035-assign03.git
+   cd desn3035-assign03
