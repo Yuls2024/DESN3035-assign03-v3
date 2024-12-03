@@ -35,9 +35,9 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
 
+   ```
    Install the following dependencies:
-
-   ``````
+   
    - **Bootstrap**
     
    ```bash
